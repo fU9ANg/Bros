@@ -1,0 +1,41 @@
+// dnSpy decompiler from Assembly-CSharp.dll
+using System;
+
+public enum HeroType
+{
+	None = -1,
+	Rambro,
+	Brommando,
+	BaBroracus,
+	BrodellWalker,
+	Blade,
+	McBrover,
+	Brononymous,
+	Brobocop,
+	BroDredd,
+	BroHard,
+	MadMaxBrotansky,
+	SnakeBroSkin,
+	Brominator,
+	IndianaBrones,
+	AshBrolliams,
+	Nebro,
+	BoondockBros,
+	Brochete,
+	BronanTheBrobarian,
+	EllenRipbro,
+	CherryBroling,
+	TimeBroVanDamme,
+	ColJamesBroddock,
+	BroniversalSoldier,
+	BroneyRoss,
+	LeeBroxmas,
+	BronnarJensen,
+	HaleTheBro,
+	TrentBroser,
+	Broc,
+	TollBroad,
+	Final,
+	SuicideBro = 500,
+	Random = 1000
+}
